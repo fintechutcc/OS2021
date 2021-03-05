@@ -7,3 +7,6 @@ add:
 
 clean:
 	rm -rf draft_journal_entry.txt
+
+compile:
+	ls
